@@ -22,6 +22,9 @@ I love puppy and taking pictures. 🐕📸
 <p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
 <p align="center"><b>Version Control</b></p>
@@ -34,6 +37,7 @@ I love puppy and taking pictures. 🐕📸
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp
+  
 </p>
 
 <p align="center"><b>Development tools</b></p>
@@ -43,7 +47,7 @@ I love puppy and taking pictures. 🐕📸
 </p>
 
 
-<p "align="center"><b>Frontend</b></p>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp
