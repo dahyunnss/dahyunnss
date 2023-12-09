@@ -6,7 +6,7 @@
 -->
 
 
-![ｇｉｔ](https://github.com/dahyunnss/dahyunnss/assets/127829350/e09cd7a0-1dd4-4cd8-a778-bf266528c1e1)
+![ｇｉｔ](https://github.com/dahyunnss/dahyunnss/assets/127829350/e09cd7a0-1dd4-4cd8-a778-bf266528c1e1&section=header&height=200)
 
 <p align="center">
 👋 Hi there! I'm AI developer.
