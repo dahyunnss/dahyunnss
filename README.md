@@ -16,7 +16,7 @@ I love puppy and taking pictures. 🐕📸
 </p>
 </br>
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Github-444444?style=flat-square&logo=GitHub&logoColor=181717"> &nbsp
