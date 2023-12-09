@@ -43,7 +43,6 @@ I love puppy and taking pictures. 🐕📸
 </p>
 
 
-
 <p "align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp
