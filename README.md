@@ -18,30 +18,30 @@ I love puppy and taking pictures. 🐕📸
 
 <h2 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h2>
 <p align="center"> Techs that I've used at least once </p>
-<p align="center"> Languages
+<p align="center"><b> Languages </b>
 </br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <p align="center"> Version Control 
-<img src="https://img.shields.io/badge/Github-444444?style=flat-square&logo=GitHub&logoColor=181717"> &nbsp
-<img src="https://img.shields.io/badge/git-444444?style=flat-square&logo=git&logoColor=F05032"> &nbsp
+<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> &nbsp
+<img src="https://img.shields.io/badge/git-444444?style=for-the-badge&logo=git&logoColor=F05032"> &nbsp
 </p>
 
 <p align="center"> Frameworks
-<img src="https://img.shields.io/badge/pytorch-444444?style=flat-square&logo=pytorch&logoColor=EE4C2C"> &nbsp
+<img src="https://img.shields.io/badge/pytorch-444444?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> &nbsp
 </p>
 
 <p align="center"> Development tools </p>
-<img src="https://img.shields.io/badge/Visual Studio Code-444444?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"> &nbsp
-<img src="https://img.shields.io/badge/Visual Studio-444444?style=flat-square&logo=Visual Studio&logoColor=#5C2D91"> &nbsp
+<img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC"> &nbsp
+<img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"> &nbsp
 </p>
 
 
 
 <p "align="center"> Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
 </p>
 
 
