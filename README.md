@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi there 🐭
 
+
+### Tech stacks 
+<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717">
+<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=git&logoColor=F05032">
 <!--
 **dahyunnss/dahyunnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
