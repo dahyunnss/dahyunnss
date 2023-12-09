@@ -26,20 +26,20 @@ I love puppy and taking pictures. 🐕📸
 
 <p align="center"><b>Version Control</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> &nbsp
-  <img src="https://img.shields.io/badge/git-444444?style=for-the-badge&logo=git&logoColor=F05032"> &nbsp
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
 </p>
 
 
 <p align="center"><b>Frameworks</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/pytorch-444444?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> &nbsp
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp
 </p>
 
 <p align="center"><b>Development tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"> &nbsp
-  <img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> &nbsp
 </p>
 
 
