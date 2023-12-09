@@ -17,7 +17,6 @@ I love puppy and taking pictures. 🐕📸
 </br>
 
 <h3 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h3>
-<p align="center"> Techs that I've used at least once </p>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -27,16 +26,16 @@ I love puppy and taking pictures. 🐕📸
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </p>
 
-<p align="center"><b>Version Control</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
-</p>
-
 
 <p align="center"><b>Deep Learning Frameworks</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp
+</p>
+
+<p align="center"><b>Version Control</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
 </p>
 
 <!--
