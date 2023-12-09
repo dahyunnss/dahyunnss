@@ -16,10 +16,10 @@ I love puppy and taking pictures. 🐕📸
 </p>
 </br>
 
-<h2 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h2>
+<h3 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h2>
 <p align="center"> Techs that I've used at least once </p>
+
 <p align="center"><b> Languages </b>
-</br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
