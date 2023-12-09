@@ -38,8 +38,8 @@ I love puppy and taking pictures. 🐕📸
 
 <p align="center"><b>Development tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC"> &nbsp
-  <img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=007ACC"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=5C2D91"> &nbsp
 </p>
 
 
