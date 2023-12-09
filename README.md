@@ -9,7 +9,7 @@
 <p align="center">
 👋 Hi there! I'm AI developer.
 </br>
-🎶I'm a <b>Speech AI researcher</b> focused on advancing <u><b>Natural Language Processing and Speech synthesis</b></u> for impactful applications.🎶
+🎶I'm a <b>Speech AI researcher</b> focused on advancing <span style="text-decoration: underline; font-weight: bold;">Natural Language Processing and Speech synthesis</span> for impactful applications.🎶
 </br>
 I love puppy and taking pictures. 🐕📸
 </br>
