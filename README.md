@@ -6,7 +6,7 @@
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Dahyun%20Song&animation=fadeIn)
+![ｇｉｔ](https://github.com/dahyunnss/dahyunnss/assets/127829350/e09cd7a0-1dd4-4cd8-a778-bf266528c1e1)
 
 <p align="center">
 👋 Hi there! I'm AI developer.
