@@ -34,18 +34,18 @@ I love puppy and taking pictures. 🐕📸
 </p>
 
 
-<p align="center"><b>Frameworks</b></p>
+<p align="center"><b>Deep Learning Frameworks</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp
-  
 </p>
 
+<!--
 <p align="center"><b>Development tools</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> &nbsp
 </p>
-
+-->
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
