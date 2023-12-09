@@ -2,7 +2,9 @@
 
 <!--
 **dahyunnss/dahyunnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Dahyun%20Song&animation=fadeIn)
 -->
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Dahyun%20Song&animation=fadeIn)
 
