@@ -20,27 +20,34 @@ I love puppy and taking pictures. 🐕📸
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center"><b>Languages</b></p>
-<p align="center"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></p>
-
-<p align="center"> Version Control 
-<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> &nbsp
-<img src="https://img.shields.io/badge/git-444444?style=for-the-badge&logo=git&logoColor=F05032"> &nbsp
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-<p align="center"> Frameworks
-<img src="https://img.shields.io/badge/pytorch-444444?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> &nbsp
-</p>
-
-<p align="center"> Development tools </p>
-<img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC"> &nbsp
-<img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"> &nbsp
+<p align="center"><b>Version Control</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> &nbsp
+  <img src="https://img.shields.io/badge/git-444444?style=for-the-badge&logo=git&logoColor=F05032"> &nbsp
 </p>
 
 
+<p align="center"><b>Frameworks</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pytorch-444444?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"> &nbsp
+</p>
 
-<p "align="center"> Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
+<p align="center"><b>Development tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-444444?style=for-the-badge&logo=Visual Studio Code&logoColor=#007ACC"> &nbsp
+  <img src="https://img.shields.io/badge/Visual Studio-444444?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91"> &nbsp
+</p>
+
+
+
+<p "align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp
 </p>
 
 
