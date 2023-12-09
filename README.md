@@ -18,7 +18,7 @@ I love puppy and taking pictures. 🐕📸
 
 <h2 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h2>
 <p align="center"> Techs that I've used at least once </p>
-<p align="center"> Languages </p>
+<p align="center"> Languages
 </br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
@@ -28,7 +28,7 @@ I love puppy and taking pictures. 🐕📸
 <img src="https://img.shields.io/badge/git-444444?style=flat-square&logo=git&logoColor=F05032"> &nbsp
 </p>
 
-<p align="center"> Frameworks </p>
+<p align="center"> Frameworks
 <img src="https://img.shields.io/badge/pytorch-444444?style=flat-square&logo=pytorch&logoColor=EE4C2C"> &nbsp
 </p>
 
@@ -39,7 +39,7 @@ I love puppy and taking pictures. 🐕📸
 
 
 
-<p align="center"> Frontend   
+<p "align="center"> Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 </p>
