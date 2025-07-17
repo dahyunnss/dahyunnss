@@ -1,73 +1,34 @@
-<!--
-## Hi there 🐭
-**dahyunnss/dahyunnss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![header](https://github.com/dahyunnss/dahyunnss/assets/127829350/18804522-f0b2-4042-a49a-435927bc9c0e)
--->
+## Introduction
 
-<p align="center">
-👋 Hi there! I'm AI developer.
-</br>
-🎶 I'm a <b>Speech AI researcher</b> focused on advancing <b>Natural Language Processing and Speech synthesis</b> for impactful applications.🎶
-</br>
-I love puppy and taking pictures. 🐕📸
-</br>
-</p>
-</br>
+- Dahyun Song (송다현)
+- M.S. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
+- I am currently studying Speech Synthesis.
+-  📬: hyeons.opy at gmail
 
-<h3 align="center"><b>🛠📚 Tech Stacks 📚🛠</b></h3>
+## Areas of Interest
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</p>
+- Artificial Intelligence
+- Speech Synthesis
+- Text-to-Speech Generation
+- Zero-shot Multi-Speaker TTS
 
+## Skills
 
-<p align="center"><b>Deep Learning Frameworks</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> &nbsp
-</p>
+- **Programming**: Python, JAVA, C#, C++, C, JavaScript, HTML/CSS, etc.
+- **Library/Framework**: PyTorch, TensorFlow, HuggingFace, Pandas, scikit-learn, etc.
+- **Tool**: Android Studio, VS Code etc.
+- **OS**: Linux (Ubuntu), Windows
 
-<p align="center"><b>Version Control</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> &nbsp
-</p>
+## Education
 
-<!--
-<p align="center"><b>Development tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white"> &nbsp
-</p>
--->
+- (March 2023 – Present) Master's degree in Artificial Intelligence at Chung-Ang University
+- [CAU AutoML Lab](http://ml.cau.ac.kr/)
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> &nbsp
-</p>
+## Publications
 
+- (Submitted to CIKM 2025) A. Moon, **D. Song**, and J. Lee "Effective Mel-Spectrogram Synthesis for Multi-Speaker Text-To-Speech Task based on High-Low Frequency Separation," *The 33rd ACM International Conference on Information and Knowledge Management (**CIKM 2025**)*.
+- **D. Song** and J. Lee "Briefing of Text-to-Speech Trends Toward Zero-Shot Multi-Speaker Synthesis," *The 43rd IEEE International Conference on Consumer Electronics (**ICCE 2025**)*, Las Vegas, USA, 11–14 January 2025.
+- S. Lee, T. Song, M. Kim, **D. Song**, S. Park, and J. Lee "A Simple Localization and Classification Framework Based on Template Matching and Self-Attention for TAO Treatment Diagnosis," *The 42nd IEEE International Conference on Consumer Electronics (**ICCE 2024**)*, Las Vegas, USA, 5–8 January 2024.
+- **D. Song**, S. Jin, and J. Lee "Recent Research Trends of CNN-based Music Emotion Recognition," *The Summer Annual Conference of the Institute of Electronics and Information Engineers (**IEIE 2023**)*, Jeju, South Korea, 28–30 June 2023.
 
-<!--
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
-&nbsp </p>
-</br>
--->
-
-<!--
-<h3 align="center" ><b>💞 Me 💞</b></h3>
-<p align="center">
-<a href="https://lee1nna.github.io/" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp
-<a href="mailto:dlgkssk0209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/e_hnna/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</p>
-
-</br>
-</br>
--->
+---
