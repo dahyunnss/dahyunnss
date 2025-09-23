@@ -21,7 +21,7 @@
 
 ## Education
 
-- (March 2023 – Present) Master's degree in Artificial Intelligence at Chung-Ang University
+- (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University
 - [CAU AutoML Lab](http://ml.cau.ac.kr/)
 
 ## Publications
