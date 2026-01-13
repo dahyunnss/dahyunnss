@@ -21,8 +21,8 @@
 
 ## Work Experience
 
--(2025 - Present) Intern, Automotive Accessories & Parts
-
+- (2023 – Present) Intern, Automotive Accessories & Parts
+  
 ## Education
 
 - (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University
