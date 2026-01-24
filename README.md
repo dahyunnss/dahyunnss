@@ -10,7 +10,6 @@
 - Artificial Intelligence
 - Speech Synthesis
 - Text-to-Speech Generation
-- Zero-shot Multi-Speaker TTS
 
 ## Skills
 
