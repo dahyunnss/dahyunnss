@@ -20,7 +20,7 @@
 
 ## Work Experience
 
-- (2023 – Present) Intern, Automotive Accessories & Parts
+- (2025 – Present) Automotive Accessories & Parts
   
 ## Education
 
