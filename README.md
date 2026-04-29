@@ -1,7 +1,6 @@
 ## Introduction
 
 - Dahyun Song (송다현)
-- M.S. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
 -  📬: hyeons.opy at gmail
 
 ## Areas of Interest
@@ -17,14 +16,10 @@
 - **Tool**: Android Studio, VS Code etc.
 - **OS**: Linux (Ubuntu), Windows
 
-## Work Experience
-
+## Education & Work Experience
+- (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University [CAU AutoML Lab](http://ml.cau.ac.kr/)
 - (2025 – Present) AI/Data Engineer, Automotive Accessories & Parts
   
-## Education
-
-- (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University
-- [CAU AutoML Lab](http://ml.cau.ac.kr/)
 
 ## Publications
 
