@@ -17,8 +17,9 @@
 
 
 ## Education & Work Experience
-- (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University [CAU AutoML Lab](http://ml.cau.ac.kr/)
 - (2025 – Present) AI/Data Engineer, Automotive Accessories & Parts
+- (2023 – 2025) Master's degree in Artificial Intelligence at Chung-Ang University [CAU AutoML Lab](http://ml.cau.ac.kr/)
+
   
 
 ## Publications
