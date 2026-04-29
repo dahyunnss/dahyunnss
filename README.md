@@ -20,7 +20,7 @@
 
 ## Work Experience
 
-- (2025 – Present) Automotive Accessories & Parts
+- (2025 – Present) AI/Data Engineer, Automotive Accessories & Parts
   
 ## Education
 
