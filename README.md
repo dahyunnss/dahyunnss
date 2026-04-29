@@ -2,7 +2,6 @@
 
 - Dahyun Song (송다현)
 - M.S. student @ [CAU AutoML Lab](http://ml.cau.ac.kr/)
-- I am currently studying Speech Synthesis.
 -  📬: hyeons.opy at gmail
 
 ## Areas of Interest
